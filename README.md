@@ -21,6 +21,12 @@ This skill provides design philosophy guidance during:
 claude install-skill luoling8192/software-design-philosophy-skill
 ```
 
+### Codex
+
+```bash
+codex skills add yangjun42/software-design-philosophy-skill
+```
+
 ### Skills.sh (Vercel)
 
 ```bash
